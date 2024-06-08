@@ -3,12 +3,8 @@ Admin Dashboard with Next.js and ShadeCn UI is a modern and responsive admin das
 
 ## Features
 - Responsive design compatible with various devices
-- User authentication (login, logout)
 - Dynamic theming with ShadeCn UI
-- Dashboard analytics and statistics
-- User management (view, add, edit, delete users)
-- Role-based access control
-- Data visualization with charts and graphs
+- Dashboard analytics and statistics - template
 
 ## Technologies
 This project is built with the following technologies:
