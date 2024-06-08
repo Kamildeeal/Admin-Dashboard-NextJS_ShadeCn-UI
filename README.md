@@ -1,3 +1,25 @@
+## Introduction
+Admin Dashboard with Next.js and ShadeCn UI is a modern and responsive admin dashboard template built using Next.js and the ShadeCn UI component library. This project is designed to provide a robust and scalable framework for building admin interfaces and dashboards, making use of the latest web development technologies.
+
+## Features
+- Responsive design compatible with various devices
+- User authentication (login, logout)
+- Dynamic theming with ShadeCn UI
+- Dashboard analytics and statistics
+- User management (view, add, edit, delete users)
+- Role-based access control
+- Data visualization with charts and graphs
+
+## Technologies
+This project is built with the following technologies:
+- **Front-end:**
+  - Next.js
+  - React.js
+  - TypeScript
+  - Tailwind
+  - ShadeCn UI
+
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
