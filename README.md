@@ -1,5 +1,5 @@
 ## Introduction
-Admin Dashboard with Next.js and ShadeCn UI is a modern and responsive admin dashboard template built using Next.js and the ShadeCn UI component library. This project is designed to provide a robust and scalable framework for building admin interfaces and dashboards, making use of the latest web development technologies. On this project I used react-hook-form with zod validation. 
+Admin Dashboard with Next.js and ShadeCn UI is a modern and responsive admin dashboard template built using Next.js and the ShadeCn UI component library. This project is designed to provide a robust and scalable framework for building admin interfaces and dashboards, making use of the latest web development technologies. I used react-hook-form with zod validation only for training purposes - console logging what's on search bar.
 
 ## Features
 - Responsive design compatible with various devices
