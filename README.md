@@ -11,7 +11,7 @@ This project is built with the following technologies:
 - **Front-end:**
   - Next.js
   - React.js
-  - TypeScript (zos validation)
+  - TypeScript (zod validation)
   - Tailwind
   - ShadeCn UI
   - React-hook-form
